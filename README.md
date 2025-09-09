@@ -2,7 +2,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Components-000)](https://ui.shadcn.com/) [![Leaflet](https://img.shields.io/badge/Leaflet-Maps-199900)](https://leafletjs.com/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Suggests 3–5 best-fit suburbs near a company address based on budget, commute (driving/public transport/walking), safety proxy, and lifestyle density. Ranking uses TOPSIS with budget → commute priority. Demo scope: Victoria (Australia) rents.
+Suggests 3–5 best-fit suburbs near a company address based on budget, commute type, safety proxy, and lifestyle density. Ranking uses TOPSIS with budget → commute priority. Demo scope: Victoria (Australia) rents.
 
 ## Features
 - Geocoding (Mapbox/OSM fallback) and address autocomplete
