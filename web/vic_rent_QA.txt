@@ -1,0 +1,30 @@
+Final combined (after filtering aggregates): 1454 rows
+
+Dwelling types:
+house    640
+unit     587
+all      227
+
+Bedrooms:
+2      422
+3      413
+all    227
+4+     208
+1      184
+
+Example suburb rows:
+area_id,area_name,region_code,region_name,dwelling_type,bedrooms,median_weekly_rent,period_end,source
+,North Bendigo,,,house,4+,530.0,2025-Q1,DFFH Rental Report 2025-Q1 (Suburb moving annual)
+,Pakenham,,,house,3,520.0,2025-Q1,DFFH Rental Report 2025-Q1 (Suburb moving annual)
+,Horsham,,,all,all,380.0,2025-Q1,DFFH Rental Report 2025-Q1 (Suburb moving annual)
+,Traralgon,,,house,2,390.0,2025-Q1,DFFH Rental Report 2025-Q1 (Suburb moving annual)
+,Bulleen-Templestowe-Doncaster,,,unit,2,580.0,2025-Q1,DFFH Rental Report 2025-Q1 (Suburb moving annual)
+
+
+Example LGA rows:
+area_id,area_name,region_code,region_name,dwelling_type,bedrooms,median_weekly_rent,period_end,source
+,,,Alpine,house,4+,575.0,2025-Q1,DFFH Rental Report 2025-Q1 (LGA quarterly)
+,,,Melton,unit,3,440.0,2025-Q1,DFFH Rental Report 2025-Q1 (LGA quarterly)
+,,,Yarra Ranges,unit,3,600.0,2025-Q1,DFFH Rental Report 2025-Q1 (LGA quarterly)
+,,,Wodonga,house,3,515.0,2025-Q1,DFFH Rental Report 2025-Q1 (LGA quarterly)
+,,,Darebin,unit,3,660.0,2025-Q1,DFFH Rental Report 2025-Q1 (LGA quarterly)
