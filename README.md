@@ -20,9 +20,3 @@ npm run dev
 # http://localhost:3000
 ```
 
-Env keys (optional for full fidelity):
-```
-MAPBOX_TOKEN=
-GOOGLE_MAPS_API_KEY=
-FOURSQUARE_API_KEY=
-```
